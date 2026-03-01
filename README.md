@@ -161,3 +161,17 @@ This is a **dummy dataset** created for educational/portfolio purposes. The patt
 ---
 
 
+
+---
+
+## 📊 Results & Screenshots
+
+<img width="1905" height="903" alt="Screenshot 2026-03-02 000848" src="https://github.com/user-attachments/assets/ee248ff7-a2ed-4cf9-a92e-bc62ff2e1ccd" />
+<img width="2684" height="1770" alt="model_evaluation" src="https://github.com/user-attachments/assets/7f2c0f98-ac56-4507-b665-a40f295621de" />
+<img width="2394" height="2796" alt="eda_analysis" src="https://github.com/user-attachments/assets/c3016ac7-7073-4d87-9b47-9867752ecf51" />
+<img width="543" height="225" alt="Screenshot 2026-03-01 234220" src="https://github.com/user-attachments/assets/3c621897-1c64-413d-bea3-269ae8f9a618" />
+<img width="574" height="819" alt="Screenshot 2026-03-01 234237" src="https://github.com/user-attachments/assets/3140bf84-46f3-4c8f-b2bc-e3ea584a274e" />
+<img width="927" height="434" alt="Screenshot 2026-03-01 234252" src="https://github.com/user-attachments/assets/0b917808-a09f-40d2-95a9-80186ea804e3" />
+<img width="896" height="887" alt="Screenshot 2026-03-01 234303" src="https://github.com/user-attachments/assets/5afd2223-fea8-4f2b-8760-ba99e25ecaed" />
+<img width="836" height="323" alt="Screenshot 2026-03-01 234322" src="https://github.com/user-attachments/assets/82be3d20-3ba0-474a-965f-9754b926b8bb" />
+
